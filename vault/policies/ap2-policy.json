@@ -1,0 +1,7 @@
+{
+  "path": {
+    "secret/data/ap2/*": {
+      "policy": "read"
+    }
+  }
+}
